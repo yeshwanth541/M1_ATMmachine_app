@@ -43,7 +43,8 @@ Ubuntu (LINUX)
 Github (pushing the code)
 
 
-## Detail requirements
+#### Detail requirements
 
-#### High level requirements
+ * High level requirements
+ * 
 
