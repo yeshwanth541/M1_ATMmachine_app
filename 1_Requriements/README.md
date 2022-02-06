@@ -82,10 +82,10 @@ store the information in their application
      * Banks have limited ATM Machine in rural areas
 
 # 4W's & 1H
-WHAT : Automated teller machine
-WHY :  To make transactions with respect to bank
-WHERE: In the application of software
-HOW : By selecting the neccesary option we can enter the input of an transaction and store the information in an application.
+* WHAT : Automated teller machine
+* WHY :  To make transactions with respect to bank
+* WHERE: In the application of software
+* HOW : By selecting the neccesary option we can enter the input of an transaction and store the information in an application.
 
    
   
