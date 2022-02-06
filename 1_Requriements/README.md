@@ -24,4 +24,23 @@ visual code studio with C compiler
 Ubuntu (LINUX)
 Github (pushing the code)
 
+Detail requirements
+High level requirements
+
+Select anyone of the following:
+
+Add record
+Store record
+modify record
+Delete record
+Exit
+low level requirements
+
+Enter the following information to the user
+
+Enter the name of employee
+Enter the age of the employee
+Enter the basic salary of the employee
+Enter the employee experience in IT industry
+
 
