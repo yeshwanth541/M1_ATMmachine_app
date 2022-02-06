@@ -57,7 +57,9 @@ store the information in their application
    Enter the following information to machine
    
       Enter the amount
+      
       Enter the pin
+      
       Select the options according to the requirment
    
   
