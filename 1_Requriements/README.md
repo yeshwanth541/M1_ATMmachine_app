@@ -42,3 +42,8 @@ Ubuntu (LINUX)
 
 Github (pushing the code)
 
+
+## Detail requirements
+
+#### High level requirements
+
