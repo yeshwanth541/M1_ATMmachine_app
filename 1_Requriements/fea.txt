@@ -1,0 +1,7 @@
+In my Project there are some features which will be easy to the handler to 
+store the information in their application
+
+Available transactions
+Withdrawl
+Deposit
+Balance enquiry
