@@ -36,7 +36,7 @@ Balance enquiry
 
 # Requirements:
 
-## visual code studio with C compiler
+visual code studio with C compiler
 
 Ubuntu (LINUX)
 
