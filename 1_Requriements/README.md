@@ -23,24 +23,22 @@ store the information in their application
 
 
 
+* Available transactions
 
 
-Available transactions
+* Withdrawl
 
+* Deposit
 
-Withdrawl
-
-Deposit
-
-Balance enquiry
+* Balance enquiry
 
 # Requirements:
 
-visual code studio with C compiler
+* visual code studio with C compiler
 
-Ubuntu (LINUX)
+* Ubuntu (LINUX)
 
-Github (pushing the code)
+* Github (pushing the code)
 
 
 #### Detail requirements
