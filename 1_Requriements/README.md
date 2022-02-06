@@ -21,7 +21,9 @@ Balance enquiry
 Requirements:
 
 visual code studio with C compiler
+
 Ubuntu (LINUX)
+
 Github (pushing the code)
 
 Detail requirements
