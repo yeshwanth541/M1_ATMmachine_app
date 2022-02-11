@@ -47,11 +47,8 @@ store the information in their application
  
   Select anyone to continue
   
-     |select|withdraw|
-     |------|-------|
-     select deposit
-     select balance enqurey
-     select net banking
+ |TD01|HLR|DESCRIPTION|INPUTS|EXPECTED O/P|ACTUAL O/P|
+ |---|---|---|---|---|---|
      
  * Low level requirments
  
