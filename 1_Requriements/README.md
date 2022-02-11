@@ -68,10 +68,10 @@ store the information in their application
      
      Strengths:
      
-     * Access to hard Cash Anywhere at Anytime. ...
-     * ATM Machines offer Financial Inclusion. ...
-     * ATM Machines offer wide range of services. ...
-     * ATM machines are Cheaper to Maintain. ...
+     * Access to hard Cash Anywhere at Anytime.
+      * ATM Machines offer Financial Inclusion.
+     * ATM Machines offer wide range of services.
+     * ATM machines are Cheaper to Maintain.
      * ATM machines Serve an Important Function in times of Crisis.
      
      
