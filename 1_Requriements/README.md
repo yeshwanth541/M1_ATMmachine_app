@@ -47,8 +47,8 @@ store the information in their application
  
   Select anyone to continue
   
-     |select| withdraw|
-     |:------|:-------|
+     |select|withdraw|
+     |------|-------|
      select deposit
      select balance enqurey
      select net banking
