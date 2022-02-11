@@ -46,9 +46,13 @@ store the information in their application
  * High level requirements
  
   Select anyone to continue
-  
- |TD01|HLR|DESCRIPTION|INPUTS|EXPECTED O/P|ACTUAL O/P|
- |---|---|---|---|---|---|
+ |HLR(ID)|DESCRIPTION|
+ |---|---|
+ |HLR01|Withdraw of the amount|
+ |HLR02|Deposit of the amount|
+ |HLR03|Balance enquiry of the amount|
+ |HLR04|Net banking|
+
      
  * Low level requirments
  
