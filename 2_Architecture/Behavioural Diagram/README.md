@@ -1,1 +1,1 @@
-![LCO Mascot](https://www.geeksforgeeks.org/state-transition-diagram-for-an-atm-system/)
+![LCO Mascot](https://media.geeksforgeeks.org/wp-content/uploads/20200618233359/Untitled641.png)
