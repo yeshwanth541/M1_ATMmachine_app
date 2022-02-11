@@ -57,7 +57,7 @@ store the information in their application
  
    Enter the following information to machine
    
-      Enter the amount
+      |Enter| the |amount|
       
       Enter the pin
       
