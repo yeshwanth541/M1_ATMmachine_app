@@ -7,3 +7,7 @@
  |TDO2|HLR02|Deposit the amount|Choice|success|success|
  |TDO3|HLR03|Balance enquiry of the amount|Choice|success|success|
  |TDO4|HLR04|Net banking |choice|success|success
+ 
+ # Low level requirments
+ |TESTID|LLR|Description|INPUT|EXPECTED O/P|ACTUAL O/P|
+ 
