@@ -98,5 +98,8 @@ HOW : By selecting the neccesary option we can enter the input of an transaction
  |TD04|LLR04_HLR03|Enter the pin to check the balance|1234|10000|10000|
  |TD05|LLR05_HLR03|Wish to have another transition|1|success|success|
  |TD06|LLR06_HLR04|To stop the transition|0|terminated|terminated|
+ 
+ # Output
+ 
 
 
