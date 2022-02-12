@@ -84,7 +84,7 @@ store the information in their application
      * ATM machines are Cheaper to Maintain.
      * ATM machines Serve an Important Function in times of Crisis.
      
-      Weakness
+     Weakness
   
      * If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
      * Cash withdrawal limits on ATM Machines
