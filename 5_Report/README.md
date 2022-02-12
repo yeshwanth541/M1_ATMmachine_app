@@ -77,3 +77,7 @@ HOW : By selecting the neccesary option we can enter the input of an transaction
 ### Low Level Behavioural Diagram
 ![Highleveldesign](https://user-images.githubusercontent.com/62649824/153637880-d856bede-41f0-43b6-8a6f-28ad29d33bec.jpg)
 
+### Structural Diagram
+![dig](https://user-images.githubusercontent.com/62649824/153696092-64c06797-4343-4660-ba5d-0f79641b4bc3.jpg)
+
+
