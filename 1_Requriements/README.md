@@ -82,13 +82,7 @@ store the information in their application
      * ATM machines Serve an Important Function in times of Crisis.
      
      
-     Weakness
-     
-     
-     * If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
-     * Cash withdrawal limits on ATM Machines
-     * If an ATM card is lost, it can be misused
-     * Banks have limited ATM Machine in rural areas
+   
 
 # 4W's & 1H
 * WHAT : Automated teller machine
