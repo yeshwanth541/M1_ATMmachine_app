@@ -46,40 +46,26 @@ store the information in their application
  * High level requirements
  
   Select anyone to continue
-  
-     select withdraw
-     select deposit
-     select balance enqurey
-     select net banking
+ |HLR(ID)|DESCRIPTION|
+ |---|---|
+ |HLR01|Withdraw of the amount|
+ |HLR02|Deposit of the amount|
+ |HLR03|Balance enquiry of the amount|
+ |HLR04|Net banking|
+
      
  * Low level requirments
  
    Enter the following information to machine
    
-      Enter the amount
-      
-      Enter the pin
-      
-      Select the options according to the requirment
-      
-     # Swot analysis:
-     
-     Strengths:
-     
-     * Access to hard Cash Anywhere at Anytime. ...
-     * ATM Machines offer Financial Inclusion. ...
-     * ATM Machines offer wide range of services. ...
-     * ATM machines are Cheaper to Maintain. ...
-     * ATM machines Serve an Important Function in times of Crisis.
-     
-     
-     Weakness
-     
-     
-     * If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
-     * Cash withdrawal limits on ATM Machines
-     * If an ATM card is lost, it can be misused
-     * Banks have limited ATM Machine in rural areas
+  |LLR(ID)|DESCRIPTION|
+  |---|---|
+  |LLR01_HLR_01|Asking for the pin|
+  |LLR02_HLR_01|Enter the following amount to withdraw|
+  |LLR03_HLR_01|Choose the transaction|
+  |LLR04_HLR_02|Enter the following amount to deposit|
+  |LLR05_HLR_03|Enter the pin for the balance check|
+  
 
 # 4W's & 1H
 * WHAT : Automated teller machine
@@ -87,6 +73,25 @@ store the information in their application
 * WHERE: In the application of software
 * HOW : By selecting the neccesary option we can enter the input of an transaction and store the information in an application.
 
+
+     # Swot analysis:
+     
+     Strengths:
+     
+     * Access to hard Cash Anywhere at Anytime.
+     * ATM Machines offer Financial Inclusion.
+     * ATM Machines offer wide range of services.
+     * ATM machines are Cheaper to Maintain.
+     * ATM machines Serve an Important Function in times of Crisis.
+     
+     Weakness
+  
+     * If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
+     * Cash withdrawal limits on ATM Machines
+     * If an ATM card is lost, it can be misused
+     * Banks have limited ATM Machine in rural areas
+
+ 
    
   
 
