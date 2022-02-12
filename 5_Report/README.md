@@ -69,4 +69,6 @@ HOW : By selecting the neccesary option we can enter the input of an transaction
   |LLR03_HLR_01|Choose the transaction|
   |LLR04_HLR_02|Enter the following amount to deposit|
   |LLR05_HLR_03|Enter the pin for the balance check|
+  
+  # Behaviour and Structural diagrams
 
