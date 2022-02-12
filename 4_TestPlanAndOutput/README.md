@@ -11,4 +11,9 @@
  # Low level requirments
  |TESTID|LLR|Description|INPUT|EXPECTED O/P|ACTUAL O/P|
  |---|---|---|---|---|---|
+ |TD01|LLR01_HLR01|Asking for the pin|1234|success|success|
+ |TDO2|LLR02_HLR01|Enter amount to withdraw|200|9800|9800|
+ |TD03|LLR03_HLR02|Enter amount to deposit|500|10500|10500|
+ 
+ 
  
