@@ -14,7 +14,8 @@ Deposit
 Balance enquiry
 
 ## Swot analysis:
-Strengths:
+
+### Strengths:
 
 Access to hard Cash Anywhere at Anytime.
 
@@ -25,7 +26,8 @@ ATM Machines offer wide range of services.
 ATM machines are Cheaper to Maintain.
 
 ATM machines Serve an Important Function in times of Crisis.
-Weakness
+
+### Weakness
 
 If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
 
