@@ -60,6 +60,13 @@ store the information in their application
    
   |LLR(ID)|DESCRIPTION|
   |---|---|
+  |LLR01_HLR_01|Asking for the pin|
+  |LLR02_HLR_01|Enter the following amount to withdraw|
+  |LLR03_HLR_01|Choose the transaction|
+  |LLR04_HLR_02|Enter the following amount to deposit|
+  |LLR05_HLR_03|Enter the pin for the balance check|
+  
+
   
       
       Select the options according to the requirment
