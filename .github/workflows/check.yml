@@ -1,4 +1,4 @@
-name: Cppcheck
+name: Static code - Cppcheck
 
 on:
   push:
