@@ -46,3 +46,26 @@ WHERE: In the application of software
 
 HOW : By selecting the neccesary option we can enter the input of an transaction and store the information in an application.
 
+ * High level requirements
+ 
+  Select anyone to continue
+ |HLR(ID)|DESCRIPTION|
+ |---|---|
+ |HLR01|Withdraw of the amount|
+ |HLR02|Deposit of the amount|
+ |HLR03|Balance enquiry of the amount|
+ |HLR04|Net banking|
+
+     
+ * Low level requirments
+ 
+   Enter the following information to machine
+   
+  |LLR(ID)|DESCRIPTION|
+  |---|---|
+  |LLR01_HLR_01|Asking for the pin|
+  |LLR02_HLR_01|Enter the following amount to withdraw|
+  |LLR03_HLR_01|Choose the transaction|
+  |LLR04_HLR_02|Enter the following amount to deposit|
+  |LLR05_HLR_03|Enter the pin for the balance check|
+
