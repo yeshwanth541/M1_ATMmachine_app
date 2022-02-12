@@ -1,4 +1,5 @@
 ![code grade](https://api.codiga.io/project/31247/score/svg)
+![code grade](https://api.codiga.io/project/31247/status/svg)
 # M1_ATMmachine_app
 
 
