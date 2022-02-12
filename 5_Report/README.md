@@ -17,14 +17,21 @@ Balance enquiry
 Strengths:
 
 Access to hard Cash Anywhere at Anytime.
+
 ATM Machines offer Financial Inclusion.
+
 ATM Machines offer wide range of services.
+
 ATM machines are Cheaper to Maintain.
+
 ATM machines Serve an Important Function in times of Crisis.
 Weakness
 
 If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
+
 Cash withdrawal limits on ATM Machines
+
 If an ATM card is lost, it can be misused
+
 Banks have limited ATM Machine in rural areas
 
