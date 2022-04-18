@@ -74,21 +74,25 @@ store the information in their application
 * HOW : By selecting the neccesary option we can enter the input of an transaction and store the information in an application.
 
 
-     # Swot analysis:
+  # Swot analysis:
      
      Strengths:
      
-     * A temperature converter helps convert the temperature between Fahrenheit and Celsius scale.
-     * We can easily identify the temperature.
-     * It is used virtually every other country in the rest of the world uses the Celsius temperature scale.
-     * The currency converter application, called Currency Converter, converts amounts from one currency to two others
-
+     * Access to hard Cash Anywhere at Anytime.
+     * ATM Machines offer Financial Inclusion.
+     * ATM Machines offer wide range of services.
+     * ATM machines are Cheaper to Maintain.
+     * ATM machines Serve an Important Function in times of Crisis.
      
      Weakness
   
-     * Uncertainty: The very fact that currencies change in value from day to day introduces a large element of uncertainty into trade.
-     * In a nation's money that has seen its value decrease in comparison to other currencies.
-     * Sometimes its significantly get the errors while using the apps.
+     * If you get a problem with your bank card, or forget your pin, you can’t withdraw your money
+     * Cash withdrawal limits on ATM Machines
+     * If an ATM card is lost, it can be misused
+     * Banks have limited ATM Machine in rural areas
+
+
+    
 
  
    
